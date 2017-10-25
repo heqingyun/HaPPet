@@ -1,0 +1,503 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml
+uses-permission-sdk-23
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:7:29-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:10:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/44367609b59fe0d9267e137584f87029d893abfb/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /Users/qingyunhe/.android/build-cache/86b47fe0195b213dd2942c84eaa006ffa2c6d05f/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/17f3bea7eea90dcf9354378367c2fb593fbc6790/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/qingyunhe/.android/build-cache/7da20f4f262185109a2c26d7bf6b88015b63926a/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/69a10545acc39fe8bd434a8e28d7d434c6916ada/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#com.google.android.providers.gsf.permisson.READ_GSERVICES
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:11:5-96
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:11:22-94
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:16:5-43:19
+MERGED from [com.google.android.gms:play-services:10.0.1] /Users/qingyunhe/.android/build-cache/a0f58d5d77daa1ffe1a9df3cca33abbe7d99e63e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/44367609b59fe0d9267e137584f87029d893abfb/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/qingyunhe/.android/build-cache/62319685b08420eb6698974eb58664ff02509d1d/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /Users/qingyunhe/.android/build-cache/be021240abd75a79facce56a94b51102c7ed0dd7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/qingyunhe/.android/build-cache/169c4d9e4f265ae23b2585a2232d76334abee770/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/qingyunhe/.android/build-cache/8a9dd1fbbb51fa1d7a93d3a205e08bd60e5b6cc1/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/qingyunhe/.android/build-cache/0d2771e9692210f7407e63c4009ea295c6679657/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] /Users/qingyunhe/.android/build-cache/62bc1a59fdf83d316153bcb9ebd6a62a6b4da17a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /Users/qingyunhe/.android/build-cache/4edb8f3902278f4239955d259af522430376ccd2/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/qingyunhe/.android/build-cache/d097d8d816c727fb8f89cc043e7e8725f78c3266/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/qingyunhe/.android/build-cache/3984b32ddc62aec6d0dff9b73ba04663c28e1222/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /Users/qingyunhe/.android/build-cache/d9d16b8c514f41df4db3c22e4b49767498101eb8/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /Users/qingyunhe/.android/build-cache/3a4af9588db4258ff393ad0a76be9d23f6ae2e10/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /Users/qingyunhe/.android/build-cache/e9775fcd26cc3aa57780a49e5ecff2131183d4e5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/qingyunhe/.android/build-cache/e51d47030e9f345e2a8f77f54f4e45ae1d67d064/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /Users/qingyunhe/.android/build-cache/0c51c9289e5781fc7b5f821e3e5a3414a5c2626a/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /Users/qingyunhe/.android/build-cache/2a0475a4b5f2a286b8910b24ec2fb8e45b4d9157/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /Users/qingyunhe/.android/build-cache/ec7cce6d7b62b58445aa312522d867253c434a41/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /Users/qingyunhe/.android/build-cache/86b47fe0195b213dd2942c84eaa006ffa2c6d05f/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /Users/qingyunhe/.android/build-cache/6f4c93f02027f7fc3992d64845645c8f8eb9c7df/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /Users/qingyunhe/.android/build-cache/675ba343b3a191b3f9b28c559dd76eed2ccd04d6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /Users/qingyunhe/.android/build-cache/10271beba1ecac2ad23a9b9d09b47b42c0e7640c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /Users/qingyunhe/.android/build-cache/75f11ae72f8e694aadb9e4a936ceb3d1dc79178d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /Users/qingyunhe/.android/build-cache/ed0d5605ed047975d345af1980313328639f2396/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/17f3bea7eea90dcf9354378367c2fb593fbc6790/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /Users/qingyunhe/.android/build-cache/d11fb1fe37d6d9a97bd05dea6de7ded139363d3d/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /Users/qingyunhe/.android/build-cache/b28b9ce08eff67066b397571456ed6011c69f587/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/qingyunhe/.android/build-cache/7da20f4f262185109a2c26d7bf6b88015b63926a/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /Users/qingyunhe/.android/build-cache/cb597facfae839b726e5583c994de23e8101433d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:design:25.3.1] /Users/qingyunhe/.android/build-cache/0b9880655ad59aab50c6dfa0e7beef86314f8f56/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/qingyunhe/.android/build-cache/5a96f8acb112fe74b93bd0e8268a7a55fc33b9a3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/qingyunhe/.android/build-cache/c4becce7e8160a02618cee01ccc85b79ae9cf34a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/qingyunhe/.android/build-cache/80a99b7d544a8607cba03a5234e1d5d8f5fac0f8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/qingyunhe/.android/build-cache/f1432e6915c8d8fe32ed74f784f41aefcff87c29/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/qingyunhe/.android/build-cache/2cbf16bcb55ac7b6df8ea1217ec298d74c29be17/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/qingyunhe/.android/build-cache/c654c46022443d7c89c44edf16264fcc14124058/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/qingyunhe/.android/build-cache/4848b5c1b0cdd40d98c953a0834fc7d69bc61dfb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/qingyunhe/.android/build-cache/11664cbeb567fe05982396c94d3f633345b43e8f/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/qingyunhe/.android/build-cache/ee390ec0daea6ffa3d5cf5f8e1f726c2a94999ab/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/qingyunhe/.android/build-cache/03588bcb4f297196d58696d5c8fd7ba9a22c8fd5/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/69a10545acc39fe8bd434a8e28d7d434c6916ada/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/qingyunhe/.android/build-cache/ff87745671f08d16ad49c0004aeabaee6fe00c89/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/qingyunhe/.android/build-cache/0ff127f26810eadc2e06e0d41646eb81d5912585/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/qingyunhe/.android/build-cache/c0674bcf55131b3771f2b1ee9d641a067b2d9301/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/qingyunhe/.android/build-cache/9c7b2548b621b8ffb946feea190de57a2dc45a33/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/qingyunhe/.android/build-cache/7b644433a248fdd57e2129179eede3324dd6f2c5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/qingyunhe/.android/build-cache/c8f14fa902a361921f63e279e43a329c69e0c3b1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/qingyunhe/.android/build-cache/0e3c9c81766a94ea478b88430599c4ce867f2954/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/qingyunhe/.android/build-cache/1816f5ca53a648967fad66da9f4e262373802ef2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/qingyunhe/.android/build-cache/17feb1537763796f24bcb3a98ab7b5db5e15d6f5/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:21:9-35
+	android:roundIcon
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:20:9-48
+	android:allowBackup
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:19:9-43
+activity#com.example.deepu.dogwiteration1.SplashScreen
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:theme
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.example.deepu.dogwiteration1.MainActivity
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:30:9-40:20
+	android:label
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:32:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:34:13-52
+	android:configChanges
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:31:13-41
+meta-data#android.app.searchable
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:37:13-39:54
+	android:resource
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:39:17-51
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:38:17-54
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:41:9-42:70
+	android:value
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:42:13-68
+	android:name
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:41:20-65
+uses-feature#0x00020000
+ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:44:5-46:34
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/qingyunhe/.android/build-cache/7da20f4f262185109a2c26d7bf6b88015b63926a/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:45:9-41
+	android:required
+		ADDED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml:46:9-32
+uses-sdk
+INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.0] /Users/qingyunhe/.android/build-cache/4d776414ee878255e3f14401a08dda45724c86ac/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:10.0.1] /Users/qingyunhe/.android/build-cache/a0f58d5d77daa1ffe1a9df3cca33abbe7d99e63e/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /Users/qingyunhe/.android/build-cache/ecd7be6b73efd9948c18c1310b3f44bfb9b1809a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/44367609b59fe0d9267e137584f87029d893abfb/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /Users/qingyunhe/.android/build-cache/ca9cead5336df62788a3e47b9527ee1d6d6011c2/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/qingyunhe/.android/build-cache/62319685b08420eb6698974eb58664ff02509d1d/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /Users/qingyunhe/.android/build-cache/be021240abd75a79facce56a94b51102c7ed0dd7/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/qingyunhe/.android/build-cache/169c4d9e4f265ae23b2585a2232d76334abee770/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/qingyunhe/.android/build-cache/8a9dd1fbbb51fa1d7a93d3a205e08bd60e5b6cc1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/qingyunhe/.android/build-cache/0d2771e9692210f7407e63c4009ea295c6679657/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] /Users/qingyunhe/.android/build-cache/62bc1a59fdf83d316153bcb9ebd6a62a6b4da17a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /Users/qingyunhe/.android/build-cache/4edb8f3902278f4239955d259af522430376ccd2/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/qingyunhe/.android/build-cache/d097d8d816c727fb8f89cc043e7e8725f78c3266/output/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/qingyunhe/.android/build-cache/3984b32ddc62aec6d0dff9b73ba04663c28e1222/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /Users/qingyunhe/.android/build-cache/d9d16b8c514f41df4db3c22e4b49767498101eb8/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /Users/qingyunhe/.android/build-cache/3a4af9588db4258ff393ad0a76be9d23f6ae2e10/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /Users/qingyunhe/.android/build-cache/e9775fcd26cc3aa57780a49e5ecff2131183d4e5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/qingyunhe/.android/build-cache/e51d47030e9f345e2a8f77f54f4e45ae1d67d064/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /Users/qingyunhe/.android/build-cache/0c51c9289e5781fc7b5f821e3e5a3414a5c2626a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /Users/qingyunhe/.android/build-cache/2a0475a4b5f2a286b8910b24ec2fb8e45b4d9157/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /Users/qingyunhe/.android/build-cache/ec7cce6d7b62b58445aa312522d867253c434a41/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] /Users/qingyunhe/.android/build-cache/6684d52960e79b26c234b7f12b3222193fde2a9a/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /Users/qingyunhe/.android/build-cache/86b47fe0195b213dd2942c84eaa006ffa2c6d05f/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /Users/qingyunhe/.android/build-cache/6f4c93f02027f7fc3992d64845645c8f8eb9c7df/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /Users/qingyunhe/.android/build-cache/675ba343b3a191b3f9b28c559dd76eed2ccd04d6/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /Users/qingyunhe/.android/build-cache/10271beba1ecac2ad23a9b9d09b47b42c0e7640c/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /Users/qingyunhe/.android/build-cache/75f11ae72f8e694aadb9e4a936ceb3d1dc79178d/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] /Users/qingyunhe/.android/build-cache/6554bcb71b3f20fb6ce16af6ce95eaf5ce6c5a4b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /Users/qingyunhe/.android/build-cache/ed0d5605ed047975d345af1980313328639f2396/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/17f3bea7eea90dcf9354378367c2fb593fbc6790/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /Users/qingyunhe/.android/build-cache/d11fb1fe37d6d9a97bd05dea6de7ded139363d3d/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] /Users/qingyunhe/.android/build-cache/9953b35ded8ce8a529aabae503d989683d3f9f4e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /Users/qingyunhe/.android/build-cache/b28b9ce08eff67066b397571456ed6011c69f587/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/qingyunhe/.android/build-cache/7da20f4f262185109a2c26d7bf6b88015b63926a/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /Users/qingyunhe/.android/build-cache/cb597facfae839b726e5583c994de23e8101433d/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:25.3.1] /Users/qingyunhe/.android/build-cache/0b9880655ad59aab50c6dfa0e7beef86314f8f56/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/qingyunhe/.android/build-cache/5a96f8acb112fe74b93bd0e8268a7a55fc33b9a3/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/qingyunhe/.android/build-cache/c4becce7e8160a02618cee01ccc85b79ae9cf34a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/qingyunhe/.android/build-cache/80a99b7d544a8607cba03a5234e1d5d8f5fac0f8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/qingyunhe/.android/build-cache/e41fc8c8825615e3a60b8f91a53b51d54f186f3f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/qingyunhe/.android/build-cache/f1432e6915c8d8fe32ed74f784f41aefcff87c29/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/qingyunhe/.android/build-cache/2cbf16bcb55ac7b6df8ea1217ec298d74c29be17/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /Users/qingyunhe/.android/build-cache/e634722fe87a6446b5e2837ba2ba7d0b22250713/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /Users/qingyunhe/.android/build-cache/4e36d3ea1b59734e845723e932a5e33b0f2316bf/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/qingyunhe/.android/build-cache/c654c46022443d7c89c44edf16264fcc14124058/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /Users/qingyunhe/.android/build-cache/81c05d200f32bb0bb645b8fd5c7ffc9aed10da30/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /Users/qingyunhe/.android/build-cache/e015b290ca5c0d7b837bcf8c2629cbc437019ab7/output/AndroidManifest.xml:3:5-42
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/qingyunhe/.android/build-cache/4848b5c1b0cdd40d98c953a0834fc7d69bc61dfb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/qingyunhe/.android/build-cache/11664cbeb567fe05982396c94d3f633345b43e8f/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/qingyunhe/.android/build-cache/ee390ec0daea6ffa3d5cf5f8e1f726c2a94999ab/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/qingyunhe/.android/build-cache/03588bcb4f297196d58696d5c8fd7ba9a22c8fd5/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/69a10545acc39fe8bd434a8e28d7d434c6916ada/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/qingyunhe/.android/build-cache/ff87745671f08d16ad49c0004aeabaee6fe00c89/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/qingyunhe/.android/build-cache/0ff127f26810eadc2e06e0d41646eb81d5912585/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/qingyunhe/.android/build-cache/c0674bcf55131b3771f2b1ee9d641a067b2d9301/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] /Users/qingyunhe/.android/build-cache/9c7b2548b621b8ffb946feea190de57a2dc45a33/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/qingyunhe/.android/build-cache/7b644433a248fdd57e2129179eede3324dd6f2c5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/qingyunhe/.android/build-cache/c8f14fa902a361921f63e279e43a329c69e0c3b1/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/qingyunhe/.android/build-cache/0e3c9c81766a94ea478b88430599c4ce867f2954/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/qingyunhe/.android/build-cache/1816f5ca53a648967fad66da9f4e262373802ef2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/qingyunhe/.android/build-cache/17feb1537763796f24bcb3a98ab7b5db5e15d6f5/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/qingyunhe/.android/build-cache/0b9880655ad59aab50c6dfa0e7beef86314f8f56/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qingyunhe/Desktop/DogWIteration3 2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/44367609b59fe0d9267e137584f87029d893abfb/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/qingyunhe/.android/build-cache/d097d8d816c727fb8f89cc043e7e8725f78c3266/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /Users/qingyunhe/.android/build-cache/0c51c9289e5781fc7b5f821e3e5a3414a5c2626a/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /Users/qingyunhe/.android/build-cache/ec7cce6d7b62b58445aa312522d867253c434a41/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/17f3bea7eea90dcf9354378367c2fb593fbc6790/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/qingyunhe/.android/build-cache/7da20f4f262185109a2c26d7bf6b88015b63926a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/69a10545acc39fe8bd434a8e28d7d434c6916ada/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:19:22-64
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/qingyunhe/.android/build-cache/ff4bd8c39a3865cff6ab42f0698c834151e11f75/output/AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/44367609b59fe0d9267e137584f87029d893abfb/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/17f3bea7eea90dcf9354378367c2fb593fbc6790/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/69a10545acc39fe8bd434a8e28d7d434c6916ada/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/44367609b59fe0d9267e137584f87029d893abfb/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/qingyunhe/.android/build-cache/b1ea5a2c9e4661ff941b5185712b755115f506e0/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/qingyunhe/.android/build-cache/3a603c9250f86dbeb2eaa44d3032a6b436247658/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/qingyunhe/.android/build-cache/62319685b08420eb6698974eb58664ff02509d1d/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/qingyunhe/.android/build-cache/62319685b08420eb6698974eb58664ff02509d1d/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/qingyunhe/.android/build-cache/62319685b08420eb6698974eb58664ff02509d1d/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/qingyunhe/.android/build-cache/62319685b08420eb6698974eb58664ff02509d1d/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/qingyunhe/.android/build-cache/62319685b08420eb6698974eb58664ff02509d1d/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/qingyunhe/.android/build-cache/62319685b08420eb6698974eb58664ff02509d1d/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/qingyunhe/.android/build-cache/3984b32ddc62aec6d0dff9b73ba04663c28e1222/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/qingyunhe/.android/build-cache/3984b32ddc62aec6d0dff9b73ba04663c28e1222/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/qingyunhe/.android/build-cache/3984b32ddc62aec6d0dff9b73ba04663c28e1222/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/qingyunhe/.android/build-cache/3984b32ddc62aec6d0dff9b73ba04663c28e1222/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/qingyunhe/.android/build-cache/3984b32ddc62aec6d0dff9b73ba04663c28e1222/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/qingyunhe/.android/build-cache/3984b32ddc62aec6d0dff9b73ba04663c28e1222/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/qingyunhe/.android/build-cache/3984b32ddc62aec6d0dff9b73ba04663c28e1222/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /Users/qingyunhe/.android/build-cache/0c51c9289e5781fc7b5f821e3e5a3414a5c2626a/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /Users/qingyunhe/.android/build-cache/ec7cce6d7b62b58445aa312522d867253c434a41/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /Users/qingyunhe/.android/build-cache/0c51c9289e5781fc7b5f821e3e5a3414a5c2626a/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/qingyunhe/.android/build-cache/aace07a2030d0a04965a22e32f85de31635b4347/output/AndroidManifest.xml:30:27-75
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/qingyunhe/.android/build-cache/0b9880655ad59aab50c6dfa0e7beef86314f8f56/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/qingyunhe/.android/build-cache/5a96f8acb112fe74b93bd0e8268a7a55fc33b9a3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/qingyunhe/.android/build-cache/c4becce7e8160a02618cee01ccc85b79ae9cf34a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/qingyunhe/.android/build-cache/80a99b7d544a8607cba03a5234e1d5d8f5fac0f8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/qingyunhe/.android/build-cache/e41fc8c8825615e3a60b8f91a53b51d54f186f3f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/qingyunhe/.android/build-cache/f1432e6915c8d8fe32ed74f784f41aefcff87c29/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/qingyunhe/.android/build-cache/4848b5c1b0cdd40d98c953a0834fc7d69bc61dfb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/qingyunhe/.android/build-cache/9c7b2548b621b8ffb946feea190de57a2dc45a33/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/qingyunhe/.android/build-cache/7b644433a248fdd57e2129179eede3324dd6f2c5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/qingyunhe/.android/build-cache/c8f14fa902a361921f63e279e43a329c69e0c3b1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/qingyunhe/.android/build-cache/0e3c9c81766a94ea478b88430599c4ce867f2954/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/qingyunhe/.android/build-cache/1816f5ca53a648967fad66da9f4e262373802ef2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/qingyunhe/.android/build-cache/17feb1537763796f24bcb3a98ab7b5db5e15d6f5/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/qingyunhe/.android/build-cache/0b9880655ad59aab50c6dfa0e7beef86314f8f56/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/qingyunhe/.android/build-cache/0b9880655ad59aab50c6dfa0e7beef86314f8f56/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/qingyunhe/.android/build-cache/ee390ec0daea6ffa3d5cf5f8e1f726c2a94999ab/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/qingyunhe/.android/build-cache/ee390ec0daea6ffa3d5cf5f8e1f726c2a94999ab/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/qingyunhe/.android/build-cache/ee390ec0daea6ffa3d5cf5f8e1f726c2a94999ab/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/qingyunhe/.android/build-cache/ee390ec0daea6ffa3d5cf5f8e1f726c2a94999ab/output/AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/69a10545acc39fe8bd434a8e28d7d434c6916ada/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/qingyunhe/.android/build-cache/69a10545acc39fe8bd434a8e28d7d434c6916ada/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/qingyunhe/.android/build-cache/46664402d63d2ac00f0110bf42c25f721e106778/output/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/qingyunhe/.android/build-cache/6fd3bc863af9baac73af5198a831d98975bf363b/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/qingyunhe/.android/build-cache/ff87745671f08d16ad49c0004aeabaee6fe00c89/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/qingyunhe/.android/build-cache/ff87745671f08d16ad49c0004aeabaee6fe00c89/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/qingyunhe/.android/build-cache/ff87745671f08d16ad49c0004aeabaee6fe00c89/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/qingyunhe/.android/build-cache/ff87745671f08d16ad49c0004aeabaee6fe00c89/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/qingyunhe/.android/build-cache/ff87745671f08d16ad49c0004aeabaee6fe00c89/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/qingyunhe/.android/build-cache/c0674bcf55131b3771f2b1ee9d641a067b2d9301/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/qingyunhe/.android/build-cache/c0674bcf55131b3771f2b1ee9d641a067b2d9301/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/qingyunhe/.android/build-cache/c0674bcf55131b3771f2b1ee9d641a067b2d9301/output/AndroidManifest.xml:20:20-65
